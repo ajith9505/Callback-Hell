@@ -1,0 +1,37 @@
+.container{
+    
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#orange{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 33%;
+    background-color: orange;
+    color: blue;
+}
+#white{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 34%;
+    color: blue;
+    
+}
+#countdown{
+    font-size:3rem;
+    font-weight:bolder;
+}
+#green{
+    background-color: green;
+    height: 33%;
+}
+
+#message{
+    font-size: 4rem;
+    color: rgb(210, 29, 234);
+}
